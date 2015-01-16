@@ -30,9 +30,9 @@ is allowed within the intstallation directory.
 
 =head1 CONTENTS
 
-    Ace
+    Algorithm::Munkres
 
-    Bio::ASN1::EntrezGene
+    Bio::Phylo
 
     Class::AutoClass 1.01
 
@@ -41,6 +41,8 @@ is allowed within the intstallation directory.
     Convert::Binary::C
 
     Data::Stag::Writer
+    
+    DB_File
 
     DBD::mysql
 
@@ -50,15 +52,35 @@ is allowed within the intstallation directory.
 
     Graph::Directed	- This module is used for Ontology Engine implementation for the GO parser
 
+    GraphViz
+
+    HTML::Entities
+
+    HTML::HeadParser
+
     HTML::Parser 3.0	- recommended, used to parse GDP page in Bio::DB::GDP
+
+    HTML::TableExtract
 
     HTTP::Request::Common - recommended, used for web access (part of libwww-perl)
 
+    IO::String
+
+    IO::Scalar
+
+    List::MoreUtils
+
     LWP::UserAgent	- recommended, used for web access
+
+    PostScript::TextBlock
+
+    Scalar::Util
 
     Set::Scalar
 
     SOAP::Lite	- Used for bibliographic queries & XEMBLService modules
+
+    Sort::Naturally
 
     Spreadsheet::ParseExcel
 
@@ -68,15 +90,19 @@ is allowed within the intstallation directory.
 
     SVG::Graph 0.01	- Optional, used to generate SVG output in Bio::Graphics
 
-    Text::Shellwords	- Recommended, used in Bio::Graphics
+    Text::ParseWords	- Recommended, used in Bio::Graphics
+
+    XML::DOM
 
     XML::DOM::XPath
+
+    XML::LibXML
+
+    XML::Parser
 
     XML::Parser::PerlSAX	- recommended for all bioperl releases after 0.6.2
 
     XML::SAX
-
-    XML::SAX::Base
 
     XML::SAX::Writer
 
@@ -85,6 +111,8 @@ is allowed within the intstallation directory.
     XML::Twig	- recommended for all bioperl releases after 0.6.2
 
     XML::Writer	- recommended for all bioperl releases after 0.6.2
+
+    YAML
 
 =head1 DESCRIPTION
 
