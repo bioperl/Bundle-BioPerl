@@ -125,7 +125,7 @@ Network (CPAN) located at http://www.cpan.org.
 
 NOTE: The latest release of this bundle includes all of the
 external CPAN modules that are listed as dependencies of the
-official BioPerl 1.5.2 codebase release. 
+official BioPerl v1.6.x codebase releases. 
 
 The only exceptions are the DBD:: and DBI:: modules which are really 
 best off installed on their own if you have a need to load and 
